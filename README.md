@@ -1,2 +1,4 @@
 # projekty
-Tu są moje projekciki 
+
+
+# WIP 
